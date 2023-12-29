@@ -29,6 +29,11 @@ Getting started with Robin Hood New Generation is straightforward:
 
 Enjoy an adventure like no other, whether you're racing against time or teaming up with friends!
 
-![Vidéo 1](https://img.youtube.com/vi/GWp7Gayqz8E/0.jpg)](https://youtu.be/GWp7Gayqz8E)
 
-![Vidéo 2](https://img.youtube.com/vi/K3K3KNu4CQk/0.jpg)](https://youtu.be/K3K3KNu4CQk)
+
+
+Here are a preview of the videos : 
+
+[![Vidéo 1](https://img.youtube.com/vi/GWp7Gayqz8E/0.jpg)](https://youtu.be/GWp7Gayqz8E)
+
+[![Vidéo 2](https://img.youtube.com/vi/K3K3KNu4CQk/0.jpg)](https://youtu.be/K3K3KNu4CQk)
