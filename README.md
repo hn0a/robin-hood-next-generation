@@ -6,6 +6,3 @@ Robin Hood New Generation is an engaging 2D game crafted with Unity and C# for a
 https://youtu.be/GWp7Gayqz8E
 
 https://youtu.be/K3K3KNu4CQk
-
-
-[![Nom de la vidéo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
