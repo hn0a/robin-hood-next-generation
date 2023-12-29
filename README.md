@@ -16,6 +16,17 @@ Robin Hood New Generation offers a multi-faceted gaming experience that caters t
 To give you a glimpse of what Robin Hood New Generation has to offer, check out our exciting game trailers and tutorials:
 
 - **[![Vidéo 1](https://img.youtube.com/vi/GWp7Gayqz8E/0.jpg)](https://youtu.be/GWp7Gayqz8E)**: Watch the first video to see the game in action and get a feel for its dynamic gameplay and immersive world.
+
+
+
+
+
+
+
+
+
+
+
 - **[![Vidéo 2](https://img.youtube.com/vi/K3K3KNu4CQk/0.jpg)](https://youtu.be/K3K3KNu4CQk)**: The second video provides a comprehensive tutorial, guiding you through the game's features and mechanics.
 
 ## Getting Started
